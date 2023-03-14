@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: ../lib/guava-version.jar
+Created-By: 11.0.12 (Microsoft)
+Main-Class: application.MyApplication
+
